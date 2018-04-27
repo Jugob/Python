@@ -22,9 +22,3 @@ print("Str7 is: {}".format(str7))
 
 str8=str1[::] #start, end and step-size all default
 print("Str8 is: {}".format(str8))
-
-
-
-
-
-print
